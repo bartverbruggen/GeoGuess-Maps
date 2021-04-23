@@ -26,6 +26,18 @@
     },
     {
       "name": {
+        "en": "Vacaciones",
+        "fr": "Vacaciones"
+      },
+      "description": {
+        "en": ""
+      },
+      "author": "Bart Verbruggen",
+      "imageUrl": "https://images.unsplash.com/photo-1487349384428-12b47aca925e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=230&q=70",
+      "url": "https://raw.githubusercontent.com/bartverbruggen/GeoGuess-Maps/main/maps/holiday.geojson"
+    },
+    {
+      "name": {
         "en": "Unesco : World Heritage List",
         "fr": "Unesco : Liste du patrimoine mondial"
       },
